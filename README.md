@@ -4,3 +4,4 @@ Developed an interactive HR Analytics Dashboard using Tableau to visualize emplo
 
 
 https://github.com/Nandini123456789483/HR-Analytics-Dashboard-Using-Tableau/blob/main/hr-data-analysis.xlsx
+https://github.com/Nandini123456789483/HR-Analytics-Dashboard-Using-Tableau/blob/main/HR%20Dashboard%20work.twb
